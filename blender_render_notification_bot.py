@@ -66,7 +66,7 @@ def send_notification(dummy):
     chat_id = prefs.chat_id  # Enter Telegram chat ID
 
     filename = bpy.path.basename(bpy.context.blend_data.filepath)  # get the filename
-    text = "Blender has finished rendering."
+    text = "- has finished rendering."
     message = filename + text
     url = "https://api.telegram.org/bot%s/sendMessage" % bot_token
     payload = {"chat_id": chat_id, "text": message}
