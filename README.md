@@ -1,5 +1,5 @@
 -blender_render_notification_bot
-
+---------------------------------------
 Introducing Blender Add-on: Telegram render Notification Bot, the essential add-on for anyone who wants to stay up-to-date with their Blender renders. With this add-on, Blender sends a notification to your Telegram bot as soon as your render is complete, thanks to the power of Telegram API.
 
 Blender Render Notification Bot is incredibly easy to use, with a user-friendly interface that allows you to enter your bot token and chat ID quickly. A helpful PDF setup guide is included to make the process smoother.
