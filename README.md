@@ -1,4 +1,4 @@
--blender_render_notification_bot
+blender_render_notification_bot
 ---------------------------------------
 Introducing Blender Add-on: Telegram render Notification Bot, the essential add-on for anyone who wants to stay up-to-date with their Blender renders. With this add-on, Blender sends a notification to your Telegram bot as soon as your render is complete, thanks to the power of Telegram API.
 
@@ -6,10 +6,9 @@ Blender Render Notification Bot is incredibly easy to use, with a user-friendly 
 
 Please note: that Blender Render Notification Bot is in the early stages of development. Currently, it only sends notifications if the render is successful, but in the future, we plan to add crashes, last errors, and the time it takes Blender to render.
 
-Don't miss out on a completed render again. Download Blender Render Notification Bot today and take the first step towards a more efficient, streamlined Blender workflow!
-------------------------------------------------------------------------------------------------------------------------------------------------
+Don't miss out on a completed render again. Download Blender Render Notification Bot today and take the first step towards a more efficient, streamlined Blender workflow
 
--To install the Render Notification add-on, follow these steps:
+To install the Render Notification add-on, follow these steps:
 -----------------------------------------------------------------
 Download the add-on as a ZIP file from Gumroad.
 Open Blender and go to Edit > Preferences > Add-ons.
