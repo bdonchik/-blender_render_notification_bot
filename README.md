@@ -9,7 +9,7 @@ Blender Render Notification Bot is incredibly easy to use, with a user-friendly 
 Don't miss out on a completed render again. Download Blender Render Notification Bot today and take the first step towards a more efficient, streamlined Blender workflow!
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-To install the Render Notification add-on, follow these steps:
+#-To install the Render Notification add-on, follow these steps:
 Download the add-on as a ZIP file from Gumroad.
 Open Blender and go to Edit > Preferences > Add-ons.
 Click the Install button and select the ZIP file you downloaded.
@@ -18,7 +18,7 @@ Enable the Render Notification add-on by checking the box next to it in the add-
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Before you can use the Render Notification add-on, you'll need to set up a Telegram bot and obtain your chat ID. Here's how to do it:
+#-Before you can use the Render Notification add-on, you'll need to set up a Telegram bot and obtain your chat ID. Here's how to do it:
 -Create a new bot in Telegram by chatting with BotFather. 🤖
 Follow the prompts from BotFather to set a name and username for your bot, and to obtain a bot token.
 -Obtain your chat ID by chatting with userinfobot. 🆔 
